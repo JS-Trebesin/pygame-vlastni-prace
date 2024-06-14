@@ -1,1 +1,1 @@
-# pygame-vlastni-prace
+# Do tohoto repozitáře odevzdávejte vlastní kód k vylepšení pygame
